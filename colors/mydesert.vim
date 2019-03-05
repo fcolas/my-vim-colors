@@ -46,7 +46,7 @@ hi SpellBad cterm=undercurl ctermfg=red ctermbg=NONE
 " hi SpellCap
 " hi SpellLocal
 " hi SpellRare
-hi StatusLine cterm=NONE ctermfg=0 ctermbg=187 gui=NONE guifg=black guifg=#c2bfa5
+hi StatusLine cterm=NONE ctermfg=0 ctermbg=187 gui=NONE guifg=black guibg=#c2bfa5
 hi StatusLineNC cterm=None ctermfg=244 ctermbg=187 gui=NONE guifg=grey50 guibg=#c2bfa5
 " hi TabLine
 " hi TabLineFill
