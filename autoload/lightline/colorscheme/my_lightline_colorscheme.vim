@@ -35,10 +35,10 @@ let s:p.replace.right = [ [ s:grey19, s:khaki ] ]
 let s:p.visual.left = [ [ s:grey19, s:khaki, 'bold' ] ]
 "let s:p.visual.middle = [ [ s:grey50, s:grey19 ] ]
 "let s:p.visual.right = [ [ s:grey19, s:grey58 ] ]
-let s:p.tabline.left = [ [ s:grey85, s:grey42 ] ]
-let s:p.tabline.middle = [ [ s:grey30, s:grey58 ] ]
-let s:p.tabline.right = [ [ s:grey19, s:grey58 ] ]
-let s:p.tabline.tabsel = [ [ s:grey85, s:grey19 ] ]
+let s:p.tabline.left = [ [ s:grey50, s:lightyellow3 ] ]
+let s:p.tabline.middle = [ [ s:grey58, s:grey30 ] ]
+let s:p.tabline.right = [ [ s:grey58, s:grey30 ] ]
+let s:p.tabline.tabsel = [ [ s:grey19, s:khaki ] ]
 
 let g:lightline#colorscheme#my_lightline_colorscheme#palette= lightline#colorscheme#flatten(s:p)
 
