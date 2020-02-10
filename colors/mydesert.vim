@@ -92,4 +92,4 @@ hi Special ctermfg=223 guifg=navajowhite
 " hi Underlined
 hi Ignore ctermfg=241 guifg=grey40
 " hi Error
-hi Todo ctermfg=201 ctermbg=190 guifg=orangered guibg=yellow2
+hi Todo ctermfg=202 ctermbg=190 guifg=orangered guibg=yellow2
